@@ -1,2 +1,3 @@
-# python3-main.py
-Python script to scan text/code files and produce a JSON stats report.
+This is a test note.
+It has multiple lines.
+So the script can count lines, words, and characters.
